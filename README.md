@@ -9,6 +9,7 @@
 ## How to run Code:
 
 ```bash
-conda create -n telebot puthon=3.7 -y
+conda create -n telebotenv python=3.7 -y
+conda activate telebotenv
 pip install -r requirements.txt
 ```
